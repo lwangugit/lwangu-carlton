@@ -1,4 +1,3 @@
-# lwangu-carlton
 <a href="https://lwangugit.github.io">
 <img src="salutations.png" style="width=600px"/>
 </a>

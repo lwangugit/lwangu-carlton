@@ -11,41 +11,41 @@
 <!--My Github Stats-->
 <picture style="width=600px">
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=LwanguCarlton&show_icons=true&card_width=600px&theme=transparent&count_private=true&custom_title=My+Github+Stats%3A"
+  srcset="https://github-readme-stats.vercel.app/api?username=Lwangugit&show_icons=true&card_width=600px&theme=transparent&count_private=true&custom_title=My+Github+Stats%3A"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=LwanguCarlton&show_icons=true&card_width=600px&theme=outrun&count_private=true&custom_title=My+Github+Stats%3A"
+  srcset="https://github-readme-stats.vercel.app/api?username=Lwangugit&show_icons=true&card_width=600px&theme=outrun&count_private=true&custom_title=My+Github+Stats%3A"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=LwanguCarlton&show_icons=true&card_width=600px&theme=outrun&count_private=true&custom_title=My+Github+Stats%3A" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lwangugit&show_icons=true&card_width=600px&theme=outrun&count_private=true&custom_title=My+Github+Stats%3A" />
 </picture>
 
 <!--Github Streak-->
 <picture style="width=600px">
 <source
-  srcset="https://streak-stats.demolab.com/?user=LwanguCarlton&theme=transparent&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
+  srcset="https://streak-stats.demolab.com/?user=Lwangugit&theme=transparent&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://streak-stats.demolab.com/?user=DanielMuringe&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
+  srcset="https://streak-stats.demolab.com/?user=Lwangugit&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://streak-stats.demolab.com/?user=LwanguCarlton&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023" />
+<img src="https://streak-stats.demolab.com/?user=Lwangugit&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023" />
 </picture>
 
 <!--Top Langs-->
 <picture style="width=600px">
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lwangucarlton&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lwangugit&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lwangucarlton&card_width=600px&theme=outrun&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lwangugit&card_width=600px&theme=outrun&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwanguCarlton&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwangugit&card_width=600px&theme=transparent&count_private=true&show_icons=true&custom_title=My+Top+Languages%3A&layout=compact&hide=html,css"
 />
 </picture>
 
